@@ -4,7 +4,8 @@ my first
 **Lets try some bold**
 
 *how about this*
-- bullet 
+- bullet
+- bullet2
 
 
 ## Table of contents
