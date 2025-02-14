@@ -1,8 +1,10 @@
+my first 
 ## First heading
 ### Second Heading 
 **Lets try some bold**
 
 *how about this*
+- bullet 
 
 
 ## Table of contents
