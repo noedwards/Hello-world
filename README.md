@@ -1,10 +1,11 @@
-my first 
-## First heading
-### Second Heading 
+my first repository
+## NORA EDWARDS
+### BAIS  
 **Lets try some bold**
 
 *how about this*
-- bullet 
+- bullet
+- 123456789
 
 
 ## Table of contents
